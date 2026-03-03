@@ -8,9 +8,6 @@ It serves as the digital front-door for the Philippines' first dedicated festiva
 ## About the Festival
 The Manila AI Film Festival connects the Philippines' vast creative workforce with global AI technological infrastructure. It is a 2-day event combining hackathons, AI filmmaking workshops, and film screenings to bridge the gap between traditional industry practices and next-gen AI tools.
 
-## Festival Director
-**Nash Ang**
-
 ## Contributing
 If you are part of the Pinoyseoul team or simply want to contribute, please clone this repository, create a branch, and submit a PR for review.
 
